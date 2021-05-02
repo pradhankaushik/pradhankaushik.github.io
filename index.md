@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 
 I am a final year student of the BS-MS dual degree program at <a href="https://www.iiserkol.ac.in/web/en/#gsc.tab=0" target="_blank">Indian Institute of Science Education and Research Kolkata</a>
-majoring in Geological Sciences and will be graduating in July 2021. Through the application of knowledge gained from quantitative disciples and programming, I am working with <a href="https://www.iiserkol.ac.in/~supriyomitra/" target="_blank">Prof. Supriyo Mitra</a> on seismology to understand the earthquakes, sub-surface through
+majoring in Geological Sciences and will be graduating in July 2021. Through the application of knowledge gained from quantitative disciplines and programming, I am working with <a href="https://www.iiserkol.ac.in/~supriyomitra/" target="_blank">Prof. Supriyo Mitra</a> on seismology to understand the earthquakes, sub-surface through
 which earthquakes propagate and interested in working on similar projects in seismology. 
 
 I am looking for PhD programs to carry forward the research in seismology.
@@ -18,10 +18,10 @@ I am looking for PhD programs to carry forward the research in seismology.
 
 ## News
 
-- **[May 2021]**  Seismology Lab course is over, worked as a teaching assistant [ES3203, Spring 2021](https://www.iiserkol.ac.in/teaching-plan/course/2021/Spring/ES3203/).
+- **[May 2021]**  Seismology Lab [ES3203, Spring 2021](https://www.iiserkol.ac.in/teaching-plan/course/2021/Spring/ES3203/) course is over, worked as a teaching assistant.
 - **[Apr. 2021]** Presented the Lg work at EGU General Assembly 2021 [EGU21-4843](https://doi.org/10.5194/egusphere-egu21-4843).
 - **[Feb. 2021]**  Offered national fellowship for PhD through CSIR-NET [June 2020](https://csirnet.nta.nic.in/WebInfo/Page/Page?PageId=1&LangId=P).
-- **[Dec. 2020]** Seismology course is over, worked as a teaching assistant [ES3105, Autumn 2020](https://www.iiserkol.ac.in/teaching-plan/course/2020/Autumn/ES3105/).
+- **[Dec. 2020]** Seismology course [ES3105, Autumn 2020](https://www.iiserkol.ac.in/teaching-plan/course/2020/Autumn/ES3105/) is over, worked as a teaching assistant.
 - **[Jun. 2020]** Attened the summer school on AI for Earth System Science [AI4ESS](https://www2.cisl.ucar.edu/events/summer-school/ai4ess/2020/artificial-intelligence-earth-system-science-ai4ess-summer-school).
 
 ## Conference
