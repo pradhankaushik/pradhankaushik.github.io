@@ -59,4 +59,4 @@ I am looking for PhD programs to carry forward the research in seismology.
 
 ## Others
 - **[2021]**  Student Member at European Geosciences Union
-- **[2020]**  Scored 102/120 at TOEFL iBT
+- **[2020]**  Scored 102/120 in TOEFL iBT
