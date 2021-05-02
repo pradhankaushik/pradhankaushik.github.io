@@ -14,7 +14,7 @@ I am looking for PhD programs to carry forward the research in seismology.
 
 - **Project 1:** Back-projection technique to understand the spatio-temporal evolution of rupture.
 - **Project 2:** High resolution crustal structure using ambient noise in the north western Himalaya.
-- **Project 2:** Lg wave propagation and attenuation characteristics of the north western Himalaya.
+- **Project 3:** Lg wave propagation and attenuation characteristics of the north western Himalaya.
 
 ## News
 
