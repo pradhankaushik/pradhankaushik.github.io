@@ -6,7 +6,7 @@ layout: homepage
 
 I am a final year student of the BS-MS dual degree program at <a href="https://www.iiserkol.ac.in/web/en/#gsc.tab=0" target="_blank">Indian Institute of Science Education and Research Kolkata</a>
 majoring in Geological Sciences and will be graduating in July 2021. Through the application of knowledge gained from quantitative disciples and programming, I am working with <a href="https://www.iiserkol.ac.in/~supriyomitra/" target="_blank">Prof. Supriyo Mitra</a> on seismology to understand the earthquakes, sub-surface through
-which earthquakes propagate and interested in working on the projects that make our planet dynamic. 
+which earthquakes propagate and interested in working similar projects in seismology. 
 
 I am looking for PhD programs to carry forward the research in seismology.
 
