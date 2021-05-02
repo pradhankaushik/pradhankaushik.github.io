@@ -6,7 +6,7 @@ keywords: minimal academic
 google_scholar: https://scholar.google.com/citations?user=7wTfouwAAAAJ&hl=en&oi=ao
 github_link: https://github.com/pradhankaushik
 linkedin: https://www.linkedin.com/in/kaushik-pradhan/
-avatar: https://github.com/pradhankaushik/pradhankaushik.github.io/assets/img/kaushik_profile.JPG
+avatar: ./assets/img/kaushik_profile.JPG
 google_analytics: UA-111540567-4
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
