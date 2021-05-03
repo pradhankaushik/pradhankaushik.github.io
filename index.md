@@ -8,7 +8,7 @@ I am a final year student of the BS-MS dual degree program at <a href="https://w
 majoring in Geological Sciences and will be graduating in July 2021. Through the application of knowledge gained from quantitative disciplines and programming, I am working with <a href="https://www.iiserkol.ac.in/~supriyomitra/" target="_blank">Prof. Supriyo Mitra</a> on seismology to understand the earthquakes, sub-surface through
 which earthquakes propagate and interested in working on similar projects in seismology. 
 
-I am looking for PhD programs to carry forward the research in seismology.
+I am looking for PhD programs to carry forward the research in seismology. <a href="https://drive.google.com/file/d/11B3j_HSfi5MLg3050pIb53U8qjsNHF1V/view?usp=sharing" target="_blank"> CV Link.</a>
 
 ## Research
 
